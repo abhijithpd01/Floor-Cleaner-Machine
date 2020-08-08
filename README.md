@@ -1,7 +1,7 @@
 ## Welcome to our design project
 Our project is mainly focusing automation of household cleaning purposes.It is very helpful to the housekeeper's withthe help of bluetooth technology.It is also user friendly and low budget product.
 
-###Introduction
+### Introduction
 
 In early, 2010 a new automatic floor cleaner robot “Mint” was developed by Jen 
 Steffen. Detachable clothes were attached for sweeping and mopping purposes. For 
