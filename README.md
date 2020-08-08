@@ -1,7 +1,7 @@
 ## Welcome to our design project
 Our project is mainly focusing automation of household cleaning purposes.It is very helpful to the housekeeper's withthe help of bluetooth technology.It is also user friendly and low budget product.
 
-###**Introduction**
+###Introduction
 
 In early, 2010 a new automatic floor cleaner robot “Mint” was developed by Jen 
 Steffen. Detachable clothes were attached for sweeping and mopping purposes. For 
@@ -21,7 +21,7 @@ robot through the phone by the user itself.Therefore user can move the robot in 
 3.Sangeerthana Raj\
 4.Salmanul Faris
 
-##### _Components used_
+##### Components used
 1.Arduino uno\
 2.L293D motor shield\
 3.Bluetooth module HC-05
@@ -29,6 +29,6 @@ robot through the phone by the user itself.Therefore user can move the robot in 
 5.Servo motor
 
  We are attached the project report here
- [Project Report] (https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf)
+ [Project Report] (https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf.)
 
 
