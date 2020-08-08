@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to our design project
+Our project is mainly focusing automation of household cleaning purposes.It is very helpful to the housekeeper's with help of bluetooth technology.It is also user friendly and low budget product.
 
-You can use the [editor on GitHub](https://github.com/abhijithpd01/Floor-Cleaner-Machine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Team members
+1.Abhijih P D
+2.Muhammed Mufeed
+3.Sangeerthana Raj
+4.Salmanul Faris
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Components used
+1.Arduino uno
+2.L293D motor driver
+3.Bluetooth module HC-05
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
