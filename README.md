@@ -30,7 +30,7 @@ We are attached the project report here
 \Salmanul Faris\Coordinator
    ![Abhijith P D Coordinator](https://abhijithpd01.github.io/Photo/IMG_20200605_181832_416.jpg=250×250)
 \Abhijith P D\Coordinator
-   ![Abhijith P D Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-094522.png=250×250)
+   ![Sangeerthana Raj Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-094522.png=250×250)
 \Sangeerthana Raj\Coordinator
 
 
