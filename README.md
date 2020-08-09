@@ -32,13 +32,15 @@ We have attached the project report here
 
 ### _Team members_
 
-   ![Muhammed Mufeed Coordinator](https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg)
+   ![Muhammed Mufeed Coordinator](https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg)|
 Muhammed Mufeed
-<img src="https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg width="100" height="100">
-   ![Salmanul Faris Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-090601.png)
+
+   ![Salmanul Faris Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-090601.png)|
 Salmanul Faris
-   ![Abhijith P D Coordinator](https://abhijithpd01.github.io/Photo/FB_IMG_1596946663973.jpg)
+  
+ ![Abhijith P D Coordinator](https://abhijithpd01.github.io/Photo/FB_IMG_1596946663973.jpg)|
 Abhijith P D
-   ![Sangeerthana Raj Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-094522.png)
+ 
+  ![Sangeerthana Raj Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-094522.png)|
 Sangeerthana Raj
 
