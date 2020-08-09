@@ -14,7 +14,7 @@ In the manual mode, user itself operates the robot.
 Bluetooth module have been used to transmit and receive the signal for controlling the 
 robot through the phone by the user itself.Therefore user can move the robot in the desired direction
 
-###_Project Report_
+###Project Report
 
 We are attached the project report here
 
