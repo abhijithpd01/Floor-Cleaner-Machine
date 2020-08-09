@@ -21,14 +21,9 @@ robot through the phone by the user itself.Therefore user can move the robot in 
 3.Sangeerthana Raj\
 4.Salmanul Faris
 
-##### Components used
-1.Arduino uno\
-2.L293D motor shield\
-3.Bluetooth module HC-05
-4.Wheels and motors
-5.Servo motor
+
 
  We are attached the project report here
- [Project Report] (https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf.)
+ [Project Report]: (https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf.)
 
 
