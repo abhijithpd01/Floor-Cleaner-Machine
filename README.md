@@ -1,5 +1,5 @@
 ## Welcome to our design project
-Our project is mainly focusing automation of household cleaning purposes.It is very helpful to the housekeeper's withthe help of bluetooth technology.It is also user friendly and low budget product.
+We are Electronics and Communicaion Engineering sudents of Goverment engineering college Idukki,Kerala.Our project is mainly focusing automation of household cleaning purposes.It is very helpful to the housekeeper's with the help of bluetooth technology.It is also user friendly and low budget product.We have done this as our design project in semester 5.
 
 ### Introduction
 
@@ -13,6 +13,14 @@ controlled by bluetooth module.
 In the manual mode, user itself operates the robot.
 Bluetooth module have been used to transmit and receive the signal for controlling the 
 robot through the phone by the user itself.Therefore user can move the robot in the desired direction
+
+### Componenets Used
+
+ * ARDUINO UNO
+ * DOUBLE SHAFT MOTORS
+ * SERVO MOTOR
+ * BLUETOOTH MODULE_HC-05
+ * MOTOR SHIELD-L293D
 
 ### _Project Report_
 
