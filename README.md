@@ -32,7 +32,7 @@ We have attached the project report here
 
 ### _Team members_
 
-   <img src=https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg>
+   [Mufee](https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg)
 Muhammed Mufeed
 
    ![Salmanul Faris Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-090601.png)|
