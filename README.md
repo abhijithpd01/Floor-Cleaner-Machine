@@ -15,7 +15,7 @@ Bluetooth module have been used to transmit and receive the signal for controlli
 robot through the phone by the user itself.Therefore user can move the robot in the desired direction
 
 
-#### _Team members_
+### _Team members_
 1.Abhijih P D\
 2.Muhammed Mufeed\
 3.Sangeerthana Raj\
@@ -24,6 +24,7 @@ robot through the phone by the user itself.Therefore user can move the robot in 
 
 
  We are attached the project report here
- [Project Report](https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf.)
+
+ **[Project Report](https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf)**
 
 
