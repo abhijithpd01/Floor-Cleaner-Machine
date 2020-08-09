@@ -31,8 +31,8 @@ We have attached the project report here
 
 
 ### _Team members_
- 1.Abhijith P D\
- 2.Muhammed Mufeed\
- 3.Salmanul Faris\
- 4.Sangeerthana Raj
+   1.Abhijith P D\
+   2.Muhammed Mufeed\
+   3.Salmanul Faris\
+   4.Sangeerthana Raj
 
