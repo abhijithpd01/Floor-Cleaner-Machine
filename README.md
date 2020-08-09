@@ -12,7 +12,7 @@ performs sweeping and mopping operation. It works on 12V supply.The cleaning act
 controlled by bluetooth module.
 In the manual mode, user itself operates the robot.
 Bluetooth module have been used to transmit and receive the signal for controlling the 
-robot through the phone by the user itself.Therefore user can move the robot in the desired direction
+robot through the phone by the user itself.Therefore user can move the robot in the desired direction.
 
 ### Componenets Used
 
