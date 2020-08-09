@@ -14,25 +14,23 @@ In the manual mode, user itself operates the robot.
 Bluetooth module have been used to transmit and receive the signal for controlling the 
 robot through the phone by the user itself.Therefore user can move the robot in the desired direction
 
+###**Project Report**
 
-### _Team members_
-1.Abhijih P D\
-2.Muhammed Mufeed\
-3.Sangeerthana Raj\
-4.Salmanul Faris
-
-
-
- We are attached the project report here
+We are attached the project report here
 
  **[Project Report](https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf)**\
 
-   ![Muhammed Mufeed Coordinator](https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg)
- \ Muhammed Mufeed\Coordinator
-   ![Salmanul Faris Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-090601.png)
-\Salmanul Faris\Coordinator
-   ![Abhijith P D Coordinator](https://abhijithpd01.github.io/Photo/IMG_20200605_181832_416.jpg)
-\Abhijith P D\Coordinator
 
+
+### _Team members_
+
+   ![Muhammed Mufeed Coordinator](https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg=250×250)
+ \ Muhammed Mufeed\Coordinator
+   ![Salmanul Faris Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-090601.png=250×250)
+\Salmanul Faris\Coordinator
+   ![Abhijith P D Coordinator](https://abhijithpd01.github.io/Photo/IMG_20200605_181832_416.jpg=250×250)
+\Abhijith P D\Coordinator
+   ![Abhijith P D Coordinator](https://abhijithpd01.github.io/Photo/Screenshot_20200809-094522.png=250×250)
+\Sangeerthana Raj\Coordinator
 
 
