@@ -27,6 +27,6 @@ robot through the phone by the user itself.Therefore user can move the robot in 
 
  **[Project Report](https://abhijithpd01.github.io/Project-Report/proect.pdf.pdf)**\
 
-   ![Abhijith P D\Coordinator](https://abhijithpd01.github.io/Photo/IMG_20200327_205850_337.jpg)
+   ![Abhijith P D\Coordinator](https://abhijithpd01.github.io/Photo/IMG-20191008-WA0382.jpg)
 
 
