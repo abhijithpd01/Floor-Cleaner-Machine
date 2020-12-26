@@ -18,7 +18,7 @@ robot through the phone by the user itself.Therefore user can move the robot in 
 
  * ARDUINO UNO
  * DOUBLE SHAFT MOTORS
- * SERVO MOTOR
+ * SERVO MOTOR-SG90
  * BLUETOOTH MODULE_HC-05
  * MOTOR SHIELD-L293D
 
